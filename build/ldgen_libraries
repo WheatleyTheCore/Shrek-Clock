@@ -1,8 +1,11 @@
-/home/alex/Projects/ShrekClock/build/esp-idf/mbedtls/libmbedtls.a
+/home/alex/Projects/ShrekClock/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
 /home/alex/Projects/ShrekClock/build/esp-idf/efuse/libefuse.a
+/home/alex/Projects/ShrekClock/build/esp-idf/esp_ipc/libesp_ipc.a
+/home/alex/Projects/ShrekClock/build/esp-idf/driver/libdriver.a
+/home/alex/Projects/ShrekClock/build/esp-idf/esp_pm/libesp_pm.a
+/home/alex/Projects/ShrekClock/build/esp-idf/mbedtls/libmbedtls.a
 /home/alex/Projects/ShrekClock/build/esp-idf/app_update/libapp_update.a
 /home/alex/Projects/ShrekClock/build/esp-idf/bootloader_support/libbootloader_support.a
-/home/alex/Projects/ShrekClock/build/esp-idf/esp_ipc/libesp_ipc.a
 /home/alex/Projects/ShrekClock/build/esp-idf/spi_flash/libspi_flash.a
 /home/alex/Projects/ShrekClock/build/esp-idf/nvs_flash/libnvs_flash.a
 /home/alex/Projects/ShrekClock/build/esp-idf/pthread/libpthread.a
@@ -24,12 +27,7 @@
 /home/alex/Projects/ShrekClock/build/esp-idf/heap/libheap.a
 /home/alex/Projects/ShrekClock/build/esp-idf/soc/libsoc.a
 /home/alex/Projects/ShrekClock/build/esp-idf/esp_hw_support/libesp_hw_support.a
-/home/alex/Projects/ShrekClock/build/esp-idf/esp_pm/libesp_pm.a
-/home/alex/Projects/ShrekClock/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
-/home/alex/Projects/ShrekClock/build/esp-idf/driver/libdriver.a
 /home/alex/Projects/ShrekClock/build/esp-idf/xtensa/libxtensa.a
-/home/alex/Projects/ShrekClock/build/esp-idf/perfmon/libperfmon.a
-/home/alex/Projects/ShrekClock/build/esp-idf/esp32/libesp32.a
 /home/alex/Projects/ShrekClock/build/esp-idf/esp_common/libesp_common.a
 /home/alex/Projects/ShrekClock/build/esp-idf/esp_timer/libesp_timer.a
 /home/alex/Projects/ShrekClock/build/esp-idf/freertos/libfreertos.a
@@ -67,8 +65,10 @@
 /home/alex/Projects/ShrekClock/build/esp-idf/libsodium/liblibsodium.a
 /home/alex/Projects/ShrekClock/build/esp-idf/mqtt/libmqtt.a
 /home/alex/Projects/ShrekClock/build/esp-idf/openssl/libopenssl.a
+/home/alex/Projects/ShrekClock/build/esp-idf/perfmon/libperfmon.a
 /home/alex/Projects/ShrekClock/build/esp-idf/spiffs/libspiffs.a
 /home/alex/Projects/ShrekClock/build/esp-idf/ulp/libulp.a
 /home/alex/Projects/ShrekClock/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 /home/alex/Projects/ShrekClock/build/esp-idf/main/libmain.a
 /home/alex/Projects/ShrekClock/build/esp-idf/protocol_examples_common/libprotocol_examples_common.a
+/home/alex/Projects/ShrekClock/build/esp-idf/u8g2/lib..a
